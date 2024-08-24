@@ -1,0 +1,66 @@
+{
+  "dependencies": [
+    {
+      "name": "discord_rpc",
+      "type": "git",
+      "ref": "master",
+      "url": "https://github.com/Aidan63/linc_discord-rpc"
+    },
+    {
+      "name": "linc_luajit",
+      "type": "git",
+      "ref": "main",
+      "url": "https://github.com/mcagabe19-stuff/linc_luajit-legacy"
+    },
+    {
+      "name": "extension-androidtools",
+      "type": "git",
+      "ref": "main",
+      "url": "https://github.com/MAJigsaw77/extension-androidtools"
+    },
+    {
+      "name": "flixel",
+      "type": "git",
+      "ref": "main",
+      "url": "https://github.com/MobilePorting/flixel-0.6.3"
+    },
+    {
+      "name": "flixel-addons",
+      "type": "haxelib",
+      "version": "2.11.0"
+    },
+    {
+      "name": "flixel-ui",
+      "type": "haxelib",
+      "version": "2.4.0"
+    },
+    {
+      "name": "hscript",
+      "type": "haxelib",
+      "version": "2.4.0"
+    },
+    {
+      "name": "hxCodec",
+      "type": "git",
+      "ref": "main",
+      "url": "https://github.com/MobilePorting/hxCodec-0.6.3"
+    },
+    {
+      "name": "hxcpp",
+      "type": "git",
+      "ref": "master",
+      "url": "https://github.com/mcagabe19-stuff/hxcpp"
+    },
+    {
+      "name": "lime",
+      "type": "git",
+      "ref": "develop",
+      "url": "https://github.com/mcagabe19-stuff/lime"
+    },
+    {
+      "name": "openfl",
+      "type": "haxelib",
+      "version": "9.1.0"
+    }
+  ]
+}
