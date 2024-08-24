@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="billyicon.png">
+<SubTexture name="IconA0000" x="0" y="248" width="149" height="114" frameX="-7" frameY="-6" frameWidth="166" frameHeight="141" />
+<SubTexture name="IconB0000" x="288" y="0" width="146" height="117" frameX="-1" frameY="-6" frameWidth="166" frameHeight="141" />
+<SubTexture name="IconC0000" x="0" y="129" width="162" height="119" frameX="-4" frameY="-6" frameWidth="166" frameHeight="141" />
+<SubTexture name="IconD0000" x="143" y="0" width="145" height="120" frameX="-4" frameY="-6" frameWidth="166" frameHeight="141" />
+<SubTexture name="IconE0000" x="0" y="0" width="143" height="129" frameX="-7" frameY="-6" frameWidth="166" frameHeight="141" />
+</TextureAtlas>
