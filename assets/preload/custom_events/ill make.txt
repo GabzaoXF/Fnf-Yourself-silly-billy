@@ -1,0 +1,9 @@
+For Value 1 / Para el Valor 1:
+Type the Lyrics | Empty to delete all
+Escribe tus Subtitulos | Vacio para borrar todo
+For Value 2 / Para el Valor 2:
+Type your color in hex (HexColor) | Empty to make the text white
+Escribe tu color en hex (ColorHex) | Vacio para que el texto sea blanco
+Type "IconP1" to use the player's color | Escribe "IconP1" para usar el color del jugador
+Type "IconP1" to use the opponent's color | Escribe "IconP1" para usar el color del oponente
+Easy Config in the Script!!
