@@ -1,6 +1,7 @@
 {
-	"name": "Name",
-	"description": "Description",
+	"name": "Yourself XD",
+	"description": "Gravado por Gabzao_XF",
 	"restart":false,
+	"runsGlobally": false,
 	"color": [170, 0, 255]
 }
