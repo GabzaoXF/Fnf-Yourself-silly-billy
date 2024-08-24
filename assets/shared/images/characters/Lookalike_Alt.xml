@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Lookalike_Alt.png" width="1877" height="1856">
+  <SubTexture name="ElUngrow0007" x="3" y="3"  width="356" height="614" frameX="-53" frameY="-0" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0002" x="3" y="623"  width="357" height="613" frameX="-53" frameY="-1" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0003" x="365" y="3"  width="357" height="613" frameX="-53" frameY="-1" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0010" x="3" y="1242"  width="358" height="611" frameX="-53" frameY="-3" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0004" x="366" y="622"  width="358" height="611" frameX="-53" frameY="-3" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0000" x="728" y="3"  width="359" height="609" frameX="-53" frameY="-5" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0005" x="367" y="1239"  width="358" height="609" frameX="-53" frameY="-5" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0015" x="730" y="618"  width="362" height="603" frameX="-56" frameY="-11" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0012" x="1093" y="3"  width="368" height="594" frameX="-55" frameY="-20" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0019" x="1467" y="3"  width="407" height="457" frameX="-0" frameY="-150" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0018" x="1467" y="466"  width="404" height="555" frameX="-9" frameY="-59" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0017" x="1098" y="603"  width="356" height="555" frameX="-57" frameY="-59" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0023" x="1098" y="1164" width="328" height="298" rotated="true"  frameX="-83" frameY="-272" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0021" x="1098" y="1468" width="376" height="383" rotated="true"  frameX="-13" frameY="-226" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0028" x="1432" y="1164" width="284" height="298" rotated="true"  frameX="-88" frameY="-316" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0025" x="731" y="1227"  width="296" height="290" frameX="-85" frameY="-310" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0032" x="731" y="1523" width="291" height="288" rotated="true"  frameX="-94" frameY="-309" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0030" x="1480" y="1468"  width="289" height="287" frameX="-93" frameY="-313" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0001" x="728" y="3"  width="359" height="609" frameX="-53" frameY="-5" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0011" x="3" y="1242"  width="358" height="611" frameX="-53" frameY="-3" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0009" x="3" y="1242"  width="358" height="611" frameX="-53" frameY="-3" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0013" x="1093" y="3"  width="368" height="594" frameX="-55" frameY="-20" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0014" x="1093" y="3"  width="368" height="594" frameX="-55" frameY="-20" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0016" x="730" y="618"  width="362" height="603" frameX="-56" frameY="-11" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0020" x="1467" y="3"  width="407" height="457" frameX="-0" frameY="-150" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0022" x="1098" y="1468" width="376" height="383" rotated="true"  frameX="-13" frameY="-226" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0024" x="1098" y="1164" width="328" height="298" rotated="true"  frameX="-83" frameY="-272" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0026" x="731" y="1227"  width="296" height="290" frameX="-85" frameY="-310" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0027" x="731" y="1227"  width="296" height="290" frameX="-85" frameY="-310" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0029" x="1432" y="1164" width="284" height="298" rotated="true"  frameX="-88" frameY="-316" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0031" x="1480" y="1468"  width="289" height="287" frameX="-93" frameY="-313" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0033" x="731" y="1523" width="291" height="288" rotated="true"  frameX="-94" frameY="-309" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0034" x="731" y="1523" width="291" height="288" rotated="true"  frameX="-94" frameY="-309" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0035" x="731" y="1523" width="291" height="288" rotated="true"  frameX="-94" frameY="-309" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0036" x="731" y="1523" width="291" height="288" rotated="true"  frameX="-94" frameY="-309" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0037" x="731" y="1523" width="291" height="288" rotated="true"  frameX="-94" frameY="-309" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0038" x="731" y="1523" width="291" height="288" rotated="true"  frameX="-94" frameY="-309" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0039" x="731" y="1523" width="291" height="288" rotated="true"  frameX="-94" frameY="-309" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0006" x="367" y="1239"  width="358" height="609" frameX="-53" frameY="-5" frameWidth="423" frameHeight="614"/>
+  <SubTexture name="ElUngrow0008" x="3" y="3"  width="356" height="614" frameX="-53" frameY="-0" frameWidth="423" frameHeight="614"/>
+</TextureAtlas>
