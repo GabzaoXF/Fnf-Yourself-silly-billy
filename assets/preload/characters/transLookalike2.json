@@ -1,0 +1,38 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				150,
+				160
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Bigize",
+			"indices": [],
+			"name": "ElUnshrink"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/unshrink",
+	"position": [
+		265,
+		25
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-310,
+		-240
+	],
+	"sing_duration": 6.1,
+	"scale": 1.54
+}

@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				111,
+				30
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ElLeftBIG"
+		},
+		{
+			"offsets": [
+				166,
+				275
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ElUpBIG"
+		},
+		{
+			"offsets": [
+				-10,
+				27
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ElRightBIG"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ElIdleBIG"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				-60,
+				-480
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "ElIdleSMALL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				-2,
+				-457
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "ElLeftSMALL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				-50,
+				-526
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "ElDownSMALL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				-80,
+				-429
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ElUpSMALL",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-66,
+				-476
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "ElRightSMALL"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				20,
+				-129
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ElDownBIG",
+			"indices": [
+				0,
+				1,
+				2,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lookalike_Assets",
+	"position": [
+		190,
+		30
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-40,
+		-270
+	],
+	"sing_duration": 6.1,
+	"scale": 1.54
+}
